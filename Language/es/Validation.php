@@ -62,7 +62,7 @@ return [
    'integer'               => 'El campo {field} debe contener un entero.',
    'is_natural'            => 'El campo {field} debe contener solo dígitos.',
    'is_natural_no_zero'    => 'El campo {field} debe solo contener dígitos y ser mayor que cero.',
-   'is_not_unique'         => 'The {field} field must contain a previously existing value in the database.',
+   'is_not_unique'         => 'El campo {field} debe coincidir con un valor existente en la base de datos.',
    'is_unique'             => 'El campo {field} debe contener un valor único.',
    'less_than'             => 'El campo {field} debe contener un número menor que {param}.',
    'less_than_equal_to'    => 'El campo {field} debe contener un número menor o igual a {param}.',
